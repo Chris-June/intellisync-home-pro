@@ -102,7 +102,7 @@ const ContactInfo = React.memo(() => (
         <h3 className="text-lg font-medium text-white">Office Location</h3>
         <p className="mt-1 text-gray-300">
           123 Real Estate Ave<br />
-          Chatham, NY 12037
+          Chatham, On N0P 0P0
         </p>
       </div>
     </div>
@@ -113,7 +113,7 @@ const ContactInfo = React.memo(() => (
       <div className="ml-4">
         <h3 className="text-lg font-medium text-white">Phone</h3>
         <p className="mt-1 text-gray-300">
-          (555) 123-4567
+          (519) 358-9712
         </p>
       </div>
     </div>
@@ -124,7 +124,7 @@ const ContactInfo = React.memo(() => (
       <div className="ml-4">
         <h3 className="text-lg font-medium text-white">Email</h3>
         <p className="mt-1 text-gray-300">
-          contact@intellisync.com
+          chris.june@intellisync.ca
         </p>
       </div>
     </div>
