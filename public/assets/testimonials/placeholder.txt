@@ -1,0 +1,12 @@
+For testimonial images, we'll use the following themes:
+
+1.jpg - Young couple (Sarah & James Mitchell)
+2.jpg - Professional male investor (Robert Thompson)
+3.jpg - Young professional Asian woman (Emily Chen)
+4.jpg - Latino couple (David & Maria Rodriguez)
+5.jpg - Elegant mature woman (Patricia Anderson)
+6.jpg - Middle-aged couple (Michael & Sophie Williams)
+
+Image dimensions: 400x400px
+Format: JPG
+Style: Professional headshots with natural lighting

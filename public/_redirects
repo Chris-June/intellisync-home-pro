@@ -1,0 +1,8 @@
+# Redirect default Netlify subdomain to primary domain
+https://intellisync-homes.netlify.app/* https://home.intellisyncsolutions.io/:splat 301!
+
+# Handle SPA routing
+/* /index.html 200
+
+# Redirect www to non-www
+https://www.home.intellisyncsolutions.io/* https://home.intellisyncsolutions.io/:splat 301!

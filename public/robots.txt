@@ -1,0 +1,21 @@
+# https://home.intellisyncsolutions.io/robots.txt
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://home.intellisyncsolutions.io/sitemap.xml
+
+# Prevent crawling of search results and filtered pages
+Disallow: /listings?*
+Disallow: /search?*
+
+# Allow crawling of important sections
+Allow: /listings/$
+Allow: /about
+Allow: /contact
+Allow: /testimonials
+Allow: /property/*
+
+# Crawl-delay for better server performance
+Crawl-delay: 10
